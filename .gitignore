@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+Ipc-Sample/MusicBeeIpcClient/MusicBeeIpcClient/Properties/Resources.Designer.cs
+Ipc-Sample/MusicBeeIpcClient/MusicBeeIpcClient/Properties/Resources.resx
+Ipc-Sample/MusicBeeIpcClient/MusicBeeIpcClient/Properties/Settings.Designer.cs
+Ipc-Sample/MusicBeeIpcClient/MusicBeeIpcClient/Properties/Settings.settings
